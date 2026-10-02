@@ -1,0 +1,38 @@
+{
+  "name": "Emby",
+  "description": "Emby 图标 · 2026-10-02",
+  "icons": [
+    {
+      "name": "cc-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/cc-emby.png"
+    },
+    {
+      "name": "doubon-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/doubon-emby.png"
+    },
+    {
+      "name": "emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/emby.png"
+    },
+    {
+      "name": "feiyue-nonay-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/feiyue-nonay-emby.png"
+    },
+    {
+      "name": "jianshouqing-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/jianshouqing-emby.png"
+    },
+    {
+      "name": "mooguu(1)-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/mooguu%281%29-emby.png"
+    },
+    {
+      "name": "mooguu-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/mooguu-emby.png"
+    },
+    {
+      "name": "tdck_qidian(1)-emby",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby/tdck_qidian%281%29-emby.png"
+    }
+  ]
+}
