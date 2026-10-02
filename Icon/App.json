@@ -1,0 +1,278 @@
+{
+  "name": "App",
+  "description": "App 图标 · 整理自 Koolson/Qure IconSet/Color · 2026-10-02",
+  "icons": [
+    {
+      "name": "AI",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/AI.png"
+    },
+    {
+      "name": "Alibaba",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Alibaba.png"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Amazon.png"
+    },
+    {
+      "name": "App_Store",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/App_Store.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Apple.png"
+    },
+    {
+      "name": "Apple_Music",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Apple_Music.png"
+    },
+    {
+      "name": "Apple_TV",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Apple_TV.png"
+    },
+    {
+      "name": "Azure",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Azure.png"
+    },
+    {
+      "name": "BBC_iPlayer",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/BBC_iPlayer.png"
+    },
+    {
+      "name": "Bahamut",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Bahamut.png"
+    },
+    {
+      "name": "Bookpedia",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Bookpedia.png"
+    },
+    {
+      "name": "Bot",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Bot.png"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/ChatGPT.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Copilot.png"
+    },
+    {
+      "name": "Cryptocurrency",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Cryptocurrency.png"
+    },
+    {
+      "name": "Cydia",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Cydia.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Discord.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Disney%2B.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Download.png"
+    },
+    {
+      "name": "Epic_Games",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Epic_Games.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Facebook.png"
+    },
+    {
+      "name": "Find_My",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Find_My.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Game.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/GitHub.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Gmail.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Google.png"
+    },
+    {
+      "name": "Google_Search",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Google_Search.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Hulu.png"
+    },
+    {
+      "name": "ITV",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/ITV.png"
+    },
+    {
+      "name": "Infuse",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Infuse.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Instagram.png"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Linkedin.png"
+    },
+    {
+      "name": "Mail",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Mail.png"
+    },
+    {
+      "name": "Media",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Media.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Microsoft.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Netflix.png"
+    },
+    {
+      "name": "Nintendo",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Nintendo.png"
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Notion.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/OneDrive.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/PayPal.png"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/PlayStation.png"
+    },
+    {
+      "name": "Pornhub",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Pornhub.png"
+    },
+    {
+      "name": "Prime_Video",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Prime_Video.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/QQ.png"
+    },
+    {
+      "name": "Quantumult_X",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Quantumult_X.png"
+    },
+    {
+      "name": "Siri",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Siri.png"
+    },
+    {
+      "name": "Speedtest",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Speedtest.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Spotify.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Steam.png"
+    },
+    {
+      "name": "TVB",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/TVB.png"
+    },
+    {
+      "name": "Taobao",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Taobao.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Telegram.png"
+    },
+    {
+      "name": "TestFlight_2",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/TestFlight_2.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/TikTok.png"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Twitter.png"
+    },
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/WeChat.png"
+    },
+    {
+      "name": "WeTV",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/WeTV.png"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Weibo.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Windows.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/X.png"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Xbox.png"
+    },
+    {
+      "name": "Yahoo",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/Yahoo.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/YouTube.png"
+    },
+    {
+      "name": "YouTube_Music",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/YouTube_Music.png"
+    },
+    {
+      "name": "bilibili",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/bilibili.png"
+    },
+    {
+      "name": "discovery+",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/discovery%2B.png"
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/iCloud.png"
+    },
+    {
+      "name": "iQIYI_1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/App/iQIYI_1.png"
+    }
+  ]
+}

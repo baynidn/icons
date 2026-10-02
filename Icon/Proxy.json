@@ -1,0 +1,190 @@
+{
+  "name": "Proxy",
+  "description": "Proxy 图标 · 整理自 Koolson/Qure IconSet/Color · 2026-10-02",
+  "icons": [
+    {
+      "name": "AGA",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/AGA.png"
+    },
+    {
+      "name": "AIA",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/AIA.png"
+    },
+    {
+      "name": "AdBlack",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/AdBlack.png"
+    },
+    {
+      "name": "AdWhite",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/AdWhite.png"
+    },
+    {
+      "name": "Advertising",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Advertising.png"
+    },
+    {
+      "name": "Airport",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Airport.png"
+    },
+    {
+      "name": "Area",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Area.png"
+    },
+    {
+      "name": "Auto",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Auto.png"
+    },
+    {
+      "name": "Available",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Available.png"
+    },
+    {
+      "name": "Available_1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Available_1.png"
+    },
+    {
+      "name": "BGP",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/BGP.png"
+    },
+    {
+      "name": "Back",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Back.png"
+    },
+    {
+      "name": "BosLife",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/BosLife.png"
+    },
+    {
+      "name": "Bypass",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Bypass.png"
+    },
+    {
+      "name": "CC",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/CC.png"
+    },
+    {
+      "name": "Cellular",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Cellular.png"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Cloudflare.png"
+    },
+    {
+      "name": "Direct",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Direct.png"
+    },
+    {
+      "name": "Domestic",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Domestic.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Final.png"
+    },
+    {
+      "name": "GIA",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/GIA.png"
+    },
+    {
+      "name": "Global",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Global.png"
+    },
+    {
+      "name": "HC",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/HC.png"
+    },
+    {
+      "name": "IEPL",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/IEPL.png"
+    },
+    {
+      "name": "IPLC",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/IPLC.png"
+    },
+    {
+      "name": "Lock",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Lock.png"
+    },
+    {
+      "name": "Naiko",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Naiko.png"
+    },
+    {
+      "name": "Nfcloud",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Nfcloud.png"
+    },
+    {
+      "name": "Proxy",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Proxy.png"
+    },
+    {
+      "name": "Reject",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Reject.png"
+    },
+    {
+      "name": "Ring",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Ring.png"
+    },
+    {
+      "name": "Rocket",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Rocket.png"
+    },
+    {
+      "name": "Round_Robin",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Round_Robin.png"
+    },
+    {
+      "name": "Round_Robin_1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Round_Robin_1.png"
+    },
+    {
+      "name": "SSID",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/SSID.png"
+    },
+    {
+      "name": "SSL",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/SSL.png"
+    },
+    {
+      "name": "Server",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Server.png"
+    },
+    {
+      "name": "Stack",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Stack.png"
+    },
+    {
+      "name": "Static",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Static.png"
+    },
+    {
+      "name": "Static_1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Static_1.png"
+    },
+    {
+      "name": "TAG",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/TAG.png"
+    },
+    {
+      "name": "ULB",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/ULB.png"
+    },
+    {
+      "name": "ULB_1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/ULB_1.png"
+    },
+    {
+      "name": "Unlock",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Unlock.png"
+    },
+    {
+      "name": "VIP",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/VIP.png"
+    },
+    {
+      "name": "WiFi",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/WiFi.png"
+    }
+  ]
+}
