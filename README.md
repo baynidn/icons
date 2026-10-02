@@ -37,10 +37,10 @@ Icon/
 4 个 JSON 的直链：
 
 ```
-https://raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
-https://raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
-https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
-https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
 ```
 
 本仓库是私有的，在 Surge / Quantumult X 等应用里引用时，需要在域名前拼上 token：
