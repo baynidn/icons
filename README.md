@@ -40,25 +40,25 @@ Icon/
 Area.json（地区图标，53 个）：
 
 ```
-https://<你的token>@raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
 ```
 
 App.json（应用图标，68 个）：
 
 ```
-https://<你的token>@raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
 ```
 
 Proxy.json（代理图标，46 个）：
 
 ```
-https://<你的token>@raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
 ```
 
 Emby.json（Emby 图标，8 个）：
 
 ```
-https://<你的token>@raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
+https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
 ```
 
 
