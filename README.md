@@ -1,6 +1,6 @@
 # icons
 
-个人图标库（私有）。
+个人图标库（公开）。
 
 ## 目录结构
 
@@ -34,33 +34,37 @@ Icon/
 
 ## 使用方法
 
-本仓库是私有的，在 Surge / Quantumult X 等应用里引用时，需要在域名前拼上 token。
-把 `<你的token>` 换成你自己的 GitHub PAT（需要 `repo` 权限）。
+本仓库是公开的，直接引用直链即可，无需 token。
 
 Area.json（地区图标，53 个）：
 
 ```
-https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
+https://raw.githubusercontent.com/baynidn/icons/main/Icon/Area.json
 ```
 
 App.json（应用图标，68 个）：
 
 ```
-https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
+https://raw.githubusercontent.com/baynidn/icons/main/Icon/App.json
 ```
 
 Proxy.json（代理图标，46 个）：
 
 ```
-https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
+https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy.json
 ```
 
 Emby.json（Emby 图标，8 个）：
 
 ```
-https://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@raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
+https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
 ```
 
+单个图标示例：
+
+```
+https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Proxy.png
+```
 
 ## 图标来源
 
