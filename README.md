@@ -1,6 +1,7 @@
 # icons
 
-个人图标库（公开）。
+整理自 [Koolson/Qure](https://github.com/Koolson/Qure) 的 `IconSet/Color`（2026-10-02）。
+
 
 ## 目录结构
 
@@ -66,6 +67,4 @@ https://raw.githubusercontent.com/baynidn/icons/main/Icon/Emby.json
 https://raw.githubusercontent.com/baynidn/icons/main/Icon/Proxy/Proxy.png
 ```
 
-## 图标来源
 
-整理自 [Koolson/Qure](https://github.com/Koolson/Qure) 的 `IconSet/Color`（2026-10-02）。
