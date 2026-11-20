@@ -1,0 +1,258 @@
+{
+  "name": "badges",
+  "description": "REX 资源卡片 Badge · 2026-11-20 · 63 个标记",
+  "icons": [
+    {
+      "name": "a-aac",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-aac.webp"
+    },
+    {
+      "name": "a-atmos",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-atmos.webp"
+    },
+    {
+      "name": "a-atmos-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-atmos-dv.webp"
+    },
+    {
+      "name": "a-dd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dd.webp"
+    },
+    {
+      "name": "a-dd-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dd-dv.webp"
+    },
+    {
+      "name": "a-ddp",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-ddp.webp"
+    },
+    {
+      "name": "a-dts",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dts.webp"
+    },
+    {
+      "name": "a-dtshd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dtshd.webp"
+    },
+    {
+      "name": "a-dtshdma",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dtshdma.webp"
+    },
+    {
+      "name": "a-dtsx",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-dtsx.webp"
+    },
+    {
+      "name": "a-truehd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-truehd.webp"
+    },
+    {
+      "name": "a-truehd-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/a-truehd-dv.webp"
+    },
+    {
+      "name": "bd-10bit",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/bd-10bit.webp"
+    },
+    {
+      "name": "c-20",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/c-20.webp"
+    },
+    {
+      "name": "c-51",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/c-51.webp"
+    },
+    {
+      "name": "c-71",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/c-71.webp"
+    },
+    {
+      "name": "co-av1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/co-av1.webp"
+    },
+    {
+      "name": "co-x264",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/co-x264.webp"
+    },
+    {
+      "name": "co-x265",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/co-x265.webp"
+    },
+    {
+      "name": "ct-mkv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/ct-mkv.webp"
+    },
+    {
+      "name": "ct-mp4",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/ct-mp4.webp"
+    },
+    {
+      "name": "e-directors-cut",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/e-directors-cut.webp"
+    },
+    {
+      "name": "e-extended",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/e-extended.webp"
+    },
+    {
+      "name": "e-remastered",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/e-remastered.webp"
+    },
+    {
+      "name": "e-theatrical",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/e-theatrical.webp"
+    },
+    {
+      "name": "f-proper",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/f-proper.webp"
+    },
+    {
+      "name": "f-repack",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/f-repack.webp"
+    },
+    {
+      "name": "p-appletv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-appletv.webp"
+    },
+    {
+      "name": "p-bilibili",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-bilibili.webp"
+    },
+    {
+      "name": "p-crave",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-crave.webp"
+    },
+    {
+      "name": "p-crunchyroll",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-crunchyroll.webp"
+    },
+    {
+      "name": "p-disney",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-disney.webp"
+    },
+    {
+      "name": "p-hulu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-hulu.webp"
+    },
+    {
+      "name": "p-iqiyi",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-iqiyi.webp"
+    },
+    {
+      "name": "p-max",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-max.webp"
+    },
+    {
+      "name": "p-netflix",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-netflix.webp"
+    },
+    {
+      "name": "p-paramount",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-paramount.webp"
+    },
+    {
+      "name": "p-peacock",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-peacock.webp"
+    },
+    {
+      "name": "p-prime",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-prime.webp"
+    },
+    {
+      "name": "p-wetv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-wetv.webp"
+    },
+    {
+      "name": "p-youku",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/p-youku.webp"
+    },
+    {
+      "name": "q-bluray",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/q-bluray.webp"
+    },
+    {
+      "name": "q-remux",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/q-remux.webp"
+    },
+    {
+      "name": "q-seadex",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/q-seadex.webp"
+    },
+    {
+      "name": "q-webdl",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/q-webdl.webp"
+    },
+    {
+      "name": "q-webrip",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/q-webrip.webp"
+    },
+    {
+      "name": "r-1080",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/r-1080.webp"
+    },
+    {
+      "name": "r-4k",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/r-4k.webp"
+    },
+    {
+      "name": "r-720",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/r-720.webp"
+    },
+    {
+      "name": "r-8k",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/r-8k.webp"
+    },
+    {
+      "name": "v-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-dv.webp"
+    },
+    {
+      "name": "v-hdr",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-hdr.webp"
+    },
+    {
+      "name": "v-hdr10",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-hdr10.webp"
+    },
+    {
+      "name": "v-hdr10plus",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-hdr10plus.webp"
+    },
+    {
+      "name": "v-imax",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-imax.webp"
+    },
+    {
+      "name": "v-imax-enhanced",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-imax-enhanced.webp"
+    },
+    {
+      "name": "v-sdr",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/v-sdr.webp"
+    },
+    {
+      "name": "zh-english",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-english.webp"
+    },
+    {
+      "name": "zh-guoyu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-guoyu.webp"
+    },
+    {
+      "name": "zh-japanese",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-japanese.webp"
+    },
+    {
+      "name": "zh-korean",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-korean.webp"
+    },
+    {
+      "name": "zh-yueyu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-yueyu.webp"
+    },
+    {
+      "name": "zh-zhongzi",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/badges/zh-zhongzi.webp"
+    }
+  ]
+}
