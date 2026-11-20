@@ -95,7 +95,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/r-4k.webp",
+      "imageURL": "https://rex-badges.pages.dev/r-4k.webp?v=2",
       "isEnabled": true,
       "groupId": "gr"
     },
@@ -108,7 +108,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/r-1080.webp",
+      "imageURL": "https://rex-badges.pages.dev/r-1080.webp?v=2",
       "isEnabled": true,
       "groupId": "gr"
     },
@@ -121,7 +121,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/r-720.webp",
+      "imageURL": "https://rex-badges.pages.dev/r-720.webp?v=2",
       "isEnabled": true,
       "groupId": "gr"
     },
@@ -134,7 +134,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/q-remux.webp",
+      "imageURL": "https://rex-badges.pages.dev/q-remux.webp?v=2",
       "isEnabled": true,
       "groupId": "gq"
     },
@@ -147,7 +147,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/q-bluray.webp",
+      "imageURL": "https://rex-badges.pages.dev/q-bluray.webp?v=2",
       "isEnabled": true,
       "groupId": "gq"
     },
@@ -160,7 +160,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/q-webdl.webp",
+      "imageURL": "https://rex-badges.pages.dev/q-webdl.webp?v=2",
       "isEnabled": true,
       "groupId": "gq"
     },
@@ -173,7 +173,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/q-webrip.webp",
+      "imageURL": "https://rex-badges.pages.dev/q-webrip.webp?v=2",
       "isEnabled": true,
       "groupId": "gq"
     },
@@ -186,7 +186,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/q-seadex.webp",
+      "imageURL": "https://rex-badges.pages.dev/q-seadex.webp?v=2",
       "isEnabled": true,
       "groupId": "gq"
     },
@@ -199,7 +199,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-dv.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-dv.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -212,7 +212,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-hdr10plus.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-hdr10plus.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -225,7 +225,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-hdr10.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-hdr10.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -238,7 +238,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-hdr.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-hdr.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -251,7 +251,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-imax-enhanced.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-imax-enhanced.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -264,7 +264,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-imax.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-imax.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -277,7 +277,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/v-sdr.webp",
+      "imageURL": "https://rex-badges.pages.dev/v-sdr.webp?v=2",
       "isEnabled": true,
       "groupId": "gv"
     },
@@ -290,7 +290,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-atmos-dv.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-atmos-dv.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -303,7 +303,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-atmos.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-atmos.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -316,7 +316,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-truehd-dv.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-truehd-dv.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -329,7 +329,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-truehd.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-truehd.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -342,7 +342,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dtsx.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dtsx.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -355,7 +355,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dtshdma.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dtshdma.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -368,7 +368,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dtshd.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dtshd.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -381,7 +381,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dts.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dts.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -394,7 +394,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dd-dv.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dd-dv.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -407,7 +407,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-ddp.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-ddp.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -420,7 +420,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-dd.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-dd.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -433,7 +433,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/c-71.webp",
+      "imageURL": "https://rex-badges.pages.dev/c-71.webp?v=2",
       "isEnabled": true,
       "groupId": "gc"
     },
@@ -446,7 +446,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/c-51.webp",
+      "imageURL": "https://rex-badges.pages.dev/c-51.webp?v=2",
       "isEnabled": true,
       "groupId": "gc"
     },
@@ -459,7 +459,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/co-x265.webp",
+      "imageURL": "https://rex-badges.pages.dev/co-x265.webp?v=2",
       "isEnabled": true,
       "groupId": "gco"
     },
@@ -472,7 +472,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/co-x264.webp",
+      "imageURL": "https://rex-badges.pages.dev/co-x264.webp?v=2",
       "isEnabled": true,
       "groupId": "gco"
     },
@@ -485,7 +485,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/co-av1.webp",
+      "imageURL": "https://rex-badges.pages.dev/co-av1.webp?v=2",
       "isEnabled": true,
       "groupId": "gco"
     },
@@ -498,7 +498,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-netflix.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-netflix.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -511,7 +511,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-prime.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-prime.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -524,7 +524,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-appletv.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-appletv.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -537,7 +537,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-disney.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-disney.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -550,7 +550,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-max.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-max.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -563,7 +563,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-hulu.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-hulu.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -576,7 +576,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-peacock.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-peacock.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -589,7 +589,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-paramount.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-paramount.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -602,7 +602,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-crave.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-crave.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -615,7 +615,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-crunchyroll.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-crunchyroll.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -628,7 +628,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-guoyu.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-guoyu.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     },
@@ -641,7 +641,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-yueyu.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-yueyu.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     },
@@ -654,7 +654,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-zhongzi.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-zhongzi.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     },
@@ -667,7 +667,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/r-8k.webp",
+      "imageURL": "https://rex-badges.pages.dev/r-8k.webp?v=2",
       "isEnabled": true,
       "groupId": "gr"
     },
@@ -680,7 +680,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/bd-10bit.webp",
+      "imageURL": "https://rex-badges.pages.dev/bd-10bit.webp?v=2",
       "isEnabled": true,
       "groupId": "gbd"
     },
@@ -693,7 +693,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/a-aac.webp",
+      "imageURL": "https://rex-badges.pages.dev/a-aac.webp?v=2",
       "isEnabled": true,
       "groupId": "ga"
     },
@@ -706,7 +706,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/c-20.webp",
+      "imageURL": "https://rex-badges.pages.dev/c-20.webp?v=2",
       "isEnabled": true,
       "groupId": "gc"
     },
@@ -719,7 +719,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/e-directors-cut.webp",
+      "imageURL": "https://rex-badges.pages.dev/e-directors-cut.webp?v=2",
       "isEnabled": true,
       "groupId": "ge"
     },
@@ -732,7 +732,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/e-extended.webp",
+      "imageURL": "https://rex-badges.pages.dev/e-extended.webp?v=2",
       "isEnabled": true,
       "groupId": "ge"
     },
@@ -745,7 +745,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/e-theatrical.webp",
+      "imageURL": "https://rex-badges.pages.dev/e-theatrical.webp?v=2",
       "isEnabled": true,
       "groupId": "ge"
     },
@@ -758,7 +758,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/e-remastered.webp",
+      "imageURL": "https://rex-badges.pages.dev/e-remastered.webp?v=2",
       "isEnabled": true,
       "groupId": "ge"
     },
@@ -771,7 +771,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/f-proper.webp",
+      "imageURL": "https://rex-badges.pages.dev/f-proper.webp?v=2",
       "isEnabled": true,
       "groupId": "gf"
     },
@@ -784,7 +784,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/f-repack.webp",
+      "imageURL": "https://rex-badges.pages.dev/f-repack.webp?v=2",
       "isEnabled": true,
       "groupId": "gf"
     },
@@ -797,7 +797,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/ct-mkv.webp",
+      "imageURL": "https://rex-badges.pages.dev/ct-mkv.webp?v=2",
       "isEnabled": true,
       "groupId": "gct"
     },
@@ -810,7 +810,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/ct-mp4.webp",
+      "imageURL": "https://rex-badges.pages.dev/ct-mp4.webp?v=2",
       "isEnabled": true,
       "groupId": "gct"
     },
@@ -823,7 +823,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-iqiyi.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-iqiyi.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -836,7 +836,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-youku.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-youku.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -849,7 +849,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-bilibili.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-bilibili.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -862,7 +862,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/p-wetv.webp",
+      "imageURL": "https://rex-badges.pages.dev/p-wetv.webp?v=2",
       "isEnabled": true,
       "groupId": "gp"
     },
@@ -875,7 +875,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-english.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-english.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     },
@@ -888,7 +888,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-japanese.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-japanese.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     },
@@ -901,7 +901,7 @@
       "borderColor": "#00000000",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
-      "imageURL": "https://rex-badges.pages.dev/zh-korean.webp",
+      "imageURL": "https://rex-badges.pages.dev/zh-korean.webp?v=2",
       "isEnabled": true,
       "groupId": "gl"
     }
