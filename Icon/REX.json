@@ -1,0 +1,134 @@
+{
+  "name": "REX",
+  "description": "REX 资源卡片 Badge · 2026-11-20 · 32 个标记",
+  "icons": [
+    {
+      "name": "a-atmos",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-atmos.webp"
+    },
+    {
+      "name": "a-atmos-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-atmos-dv.webp"
+    },
+    {
+      "name": "a-dd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dd.webp"
+    },
+    {
+      "name": "a-dd-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dd-dv.webp"
+    },
+    {
+      "name": "a-ddp",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-ddp.webp"
+    },
+    {
+      "name": "a-dts",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dts.webp"
+    },
+    {
+      "name": "a-dtshdma",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dtshdma.webp"
+    },
+    {
+      "name": "a-truehd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-truehd.webp"
+    },
+    {
+      "name": "a-truehd-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-truehd-dv.webp"
+    },
+    {
+      "name": "co-av1",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/co-av1.webp"
+    },
+    {
+      "name": "co-x264",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/co-x264.webp"
+    },
+    {
+      "name": "co-x265",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/co-x265.webp"
+    },
+    {
+      "name": "p-appletv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-appletv.webp"
+    },
+    {
+      "name": "p-disney",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-disney.webp"
+    },
+    {
+      "name": "p-max",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-max.webp"
+    },
+    {
+      "name": "p-netflix",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-netflix.webp"
+    },
+    {
+      "name": "p-prime",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-prime.webp"
+    },
+    {
+      "name": "q-bluray",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-bluray.webp"
+    },
+    {
+      "name": "q-remux",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-remux.webp"
+    },
+    {
+      "name": "q-webdl",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-webdl.webp"
+    },
+    {
+      "name": "q-webrip",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-webrip.webp"
+    },
+    {
+      "name": "r-1080",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/r-1080.webp"
+    },
+    {
+      "name": "r-4k",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/r-4k.webp"
+    },
+    {
+      "name": "r-720",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/r-720.webp"
+    },
+    {
+      "name": "v-dv",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-dv.webp"
+    },
+    {
+      "name": "v-hdr",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-hdr.webp"
+    },
+    {
+      "name": "v-hdr10",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-hdr10.webp"
+    },
+    {
+      "name": "v-hdr10plus",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-hdr10plus.webp"
+    },
+    {
+      "name": "v-imax",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-imax.webp"
+    },
+    {
+      "name": "zh-guoyu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/zh-guoyu.webp"
+    },
+    {
+      "name": "zh-yueyu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/zh-yueyu.webp"
+    },
+    {
+      "name": "zh-zhongzi",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/zh-zhongzi.webp"
+    }
+  ]
+}
