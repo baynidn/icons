@@ -1,6 +1,6 @@
 {
   "name": "REX",
-  "description": "REX 资源卡片 Badge · 2026-11-20 · 32 个标记",
+  "description": "REX 资源卡片 Badge · 2026-11-20 · 44 个标记",
   "icons": [
     {
       "name": "a-atmos",
@@ -27,8 +27,16 @@
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dts.webp"
     },
     {
+      "name": "a-dtshd",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dtshd.webp"
+    },
+    {
       "name": "a-dtshdma",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dtshdma.webp"
+    },
+    {
+      "name": "a-dtsx",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-dtsx.webp"
     },
     {
       "name": "a-truehd",
@@ -37,6 +45,14 @@
     {
       "name": "a-truehd-dv",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/a-truehd-dv.webp"
+    },
+    {
+      "name": "c-51",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/c-51.webp"
+    },
+    {
+      "name": "c-71",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/c-71.webp"
     },
     {
       "name": "co-av1",
@@ -55,8 +71,20 @@
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-appletv.webp"
     },
     {
+      "name": "p-crave",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-crave.webp"
+    },
+    {
+      "name": "p-crunchyroll",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-crunchyroll.webp"
+    },
+    {
       "name": "p-disney",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-disney.webp"
+    },
+    {
+      "name": "p-hulu",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-hulu.webp"
     },
     {
       "name": "p-max",
@@ -65,6 +93,14 @@
     {
       "name": "p-netflix",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-netflix.webp"
+    },
+    {
+      "name": "p-paramount",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-paramount.webp"
+    },
+    {
+      "name": "p-peacock",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/p-peacock.webp"
     },
     {
       "name": "p-prime",
@@ -77,6 +113,10 @@
     {
       "name": "q-remux",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-remux.webp"
+    },
+    {
+      "name": "q-seadex",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/q-seadex.webp"
     },
     {
       "name": "q-webdl",
@@ -117,6 +157,14 @@
     {
       "name": "v-imax",
       "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-imax.webp"
+    },
+    {
+      "name": "v-imax-enhanced",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-imax-enhanced.webp"
+    },
+    {
+      "name": "v-sdr",
+      "url": "https://raw.githubusercontent.com/baynidn/icons/main/Icon/REX/v-sdr.webp"
     },
     {
       "name": "zh-guoyu",
